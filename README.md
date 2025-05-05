@@ -1,2 +1,2 @@
 # Mylifemainseft.github.io
-My personal wedsite
+Learning github fun
